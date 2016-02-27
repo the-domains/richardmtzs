@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Richard's]]></title>
         <description><![CDATA[Richard's]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/richardmtzs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 02:14:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 02:16:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/richardmtzs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
+            <link>https://app.thegrid.io/sites/e74d566a-422f-4eb2-8ef7-6b6de18f1118/posts/f48775f0-414c-425c-906e-1ba0061e61d2</link>
+            <guid isPermaLink="false">44685376-8ec1-4c94-886e-53b8c968f765</guid>
+            <pubDate>Sat, 27 Feb 2016 02:16:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3c12ea-b349-4033-9f39-03c4a2693b60.JPG" alt="" title="">]]></description>
-            <link>undefined40ece96b-fa7a-4937-9937-9fc824c9931f/index.html</link>
+            <link>https://thegrid.ai/richardmtzs/40ece96b-fa7a-4937-9937-9fc824c9931f/index.html</link>
             <guid isPermaLink="false">40ece96b-fa7a-4937-9937-9fc824c9931f</guid>
             <pubDate>Sat, 27 Feb 2016 02:13:08 GMT</pubDate>
         </item>
